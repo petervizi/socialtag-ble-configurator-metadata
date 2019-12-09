@@ -1,0 +1,19 @@
+{
+  "name": "socialtag-ble-configurator-metadata",
+  "version": "1.0.0",
+  "description": "Metadata for the SocialTag BLE configurator service",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petervizi/socialtag-ble-configurator-metadata.git"
+  },
+  "author": "Peter Vizi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petervizi/socialtag-ble-configurator-metadata/issues"
+  },
+  "homepage": "https://github.com/petervizi/socialtag-ble-configurator-metadata#readme"
+}

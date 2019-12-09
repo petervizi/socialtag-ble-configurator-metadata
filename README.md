@@ -1,0 +1,1 @@
+# socialtag-ble-configurator-metadata
