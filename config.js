@@ -29,6 +29,9 @@ module.exports = {
       PARAMETERS_BUFFER_CHARACTERISTIC: {
         UUID: '536f6369-616c-5461-6700-230000000000',
       },
+      DEVICE_ID_CHARACTERISTIC: {
+        UUID: '536f6369-616c-5461-6700-240000000000',
+      },
     }
   },
 }
